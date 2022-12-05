@@ -1,0 +1,22 @@
+*{
+    text-align: center;
+}
+
+.cardsSection{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+
+    /* background: black; */
+    width: 100%;
+    padding: 10px;
+
+
+    /* height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1%; */
+   
+}
